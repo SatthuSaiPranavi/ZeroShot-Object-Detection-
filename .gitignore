@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# virtual environment
+.venv/
+venv/
+
+# ML models
+*.pth
+*.pt
+
+# uploads / videos
+uploads/
+*.mp4
+
+# system files
+.DS_Store
