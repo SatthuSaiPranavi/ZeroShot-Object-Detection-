@@ -50,58 +50,6 @@ The system integrates state-of-the-art AI models with a **React frontend** and *
 | 🎯 **Object Tracking** | Video upload & multi-object tracking | ![Tracking](docs/images/tracking.jpeg) |
 | 🧠 **Scene Understanding** | AI-powered scene descriptions | ![Scene](docs/images/scene.jpeg) |
 
-## 🏗️ System Architecture
-# 🧠 AI Vision Platform
-
-An AI-powered computer vision web platform that enables **zero-shot object detection**, **segmentation**, **multi-object tracking**, and **scene understanding** through an interactive web interface.
-
-The system integrates state-of-the-art AI models with a **React frontend** and **Python backend** to provide real-time visual intelligence.
-
-## 🚀 Features
-
-### 🔍 Object Detection & Segmentation
-- Zero-shot object detection using **GroundingDINO**
-- Instance segmentation using **Segment Anything Model (SAM)**
-- Detect objects without custom training
-- **Supported inputs:**
-  - Image Upload
-  - Live Camera Detection
-  - Text Prompt Detection
-- **Example prompt:** `a dog, a cat`
-
-![Detection Demo](docs/images/detection.png)
-
-### 🎯 Object Tracking
-- Multi-object tracking using:
-  - **YOLOv8** → object detection
-  - **DeepSORT** → tracking across frames
-- **Capabilities:**
-  - Upload video
-  - Track multiple objects
-  - Assign unique IDs
-  - Download processed tracking result
-- **Supported formats:** MP4, AVI, MOV, WEBM
-
-![Tracking Demo](docs/images/tracking.png)
-
-### 🧠 Scene Understanding
-- Scene understanding using **BLIP Vision-Language Model**
-- **Capabilities:**
-  - Image captioning
-  - Context-aware scene description
-  - High-level semantic understanding
-- **Example output:** `a kitten and a dog laying in the grass`
-
-![Scene Demo](docs/images/scene.png)
-
-## 📸 Application Interface
-
-| Module | Description | Demo |
-|--------|-------------|------|
-| 🏠 **Home Dashboard** | Choose between three AI modules | ![Home](docs/images/home.png) |
-| 🔍 **Object Detection** | Real-time detection with text prompts | ![Detection](docs/images/detection.png) |
-| 🎯 **Object Tracking** | Video upload & multi-object tracking | ![Tracking](docs/images/tracking.png) |
-| 🧠 **Scene Understanding** | AI-powered scene descriptions | ![Scene](docs/images/scene.png) |
 
 ## 🏗️ System Architecture
 Frontend (React)
