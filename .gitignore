@@ -16,3 +16,8 @@ uploads/
 
 # system files
 .DS_Store
+
+
+models/
+*.pth
+*.pt
