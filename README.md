@@ -16,7 +16,7 @@ The system integrates state-of-the-art AI models with a **React frontend** and *
   - Text Prompt Detection
 - **Example prompt:** `a dog, a cat`
 
-![Detection Demo](docs/images/detection.png)
+![Detection Demo](docs/images/detection.jpeg)
 
 ### 🎯 Object Tracking
 - Multi-object tracking using:
@@ -29,7 +29,7 @@ The system integrates state-of-the-art AI models with a **React frontend** and *
   - Download processed tracking result
 - **Supported formats:** MP4, AVI, MOV, WEBM
 
-![Tracking Demo](docs/images/tracking.png)
+![Tracking Demo](docs/images/tracking.jpeg)
 
 ### 🧠 Scene Understanding
 - Scene understanding using **BLIP Vision-Language Model**
@@ -39,16 +39,16 @@ The system integrates state-of-the-art AI models with a **React frontend** and *
   - High-level semantic understanding
 - **Example output:** `a kitten and a dog laying in the grass`
 
-![Scene Demo](docs/images/scene.png)
+![Scene Demo](docs/images/scene.jpeg)
 
 ## 📸 Application Interface
 
 | Module | Description | Demo |
 |--------|-------------|------|
-| 🏠 **Home Dashboard** | Choose between three AI modules | ![Home](docs/images/home.png) |
-| 🔍 **Object Detection** | Real-time detection with text prompts | ![Detection](docs/images/detection.png) |
-| 🎯 **Object Tracking** | Video upload & multi-object tracking | ![Tracking](docs/images/tracking.png) |
-| 🧠 **Scene Understanding** | AI-powered scene descriptions | ![Scene](docs/images/scene.png) |
+| 🏠 **Home Dashboard** | Choose between three AI modules | ![Home](docs/images/home.jpeg) |
+| 🔍 **Object Detection** | Real-time detection with text prompts | ![Detection](docs/images/detection.jpeg) |
+| 🎯 **Object Tracking** | Video upload & multi-object tracking | ![Tracking](docs/images/tracking.jpeg) |
+| 🧠 **Scene Understanding** | AI-powered scene descriptions | ![Scene](docs/images/scene.jpeg) |
 
 ## 🏗️ System Architecture
 # 🧠 AI Vision Platform
